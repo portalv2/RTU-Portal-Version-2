@@ -1,0 +1,37 @@
+#overview {
+background-color: transparent;
+
+  color: #000000;
+padding: 12px 50px;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+
+}
+
+#overview:hover {
+  background-color: #1d4ed8;
+}
+
+#overview:active {
+  transform: scale(0.98);
+}
+
+#csched {
+background-color: transparent;
+
+  color: #000000;
+padding: 12px 50px;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+
+}
+
+#csched:hover {
+  background-color: #1d4ed8;
+}
+
+#cshed:active {
+  transform: scale(0.98);
+}
